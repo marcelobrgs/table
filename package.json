@@ -2,7 +2,7 @@
   "name": "fetch-hooks-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://marcelobrgs.github.io/table-users",
+  "homepage": "https://marcelobrgs.github.io/table",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
